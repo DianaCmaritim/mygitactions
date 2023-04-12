@@ -1,2 +1,2 @@
 # mygitactions
-#learning CI/CD pipeline
+# learning CI/CD pipeline
